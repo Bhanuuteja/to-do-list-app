@@ -1,0 +1,6 @@
+{
+  "name": "React To-Do List App",
+  "description": "A frontend application for managing tasks (To-Do List). It allows users to add, view, edit, and delete tasks. This application is designed to connect to a backend API for full MERN stack functionality.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
